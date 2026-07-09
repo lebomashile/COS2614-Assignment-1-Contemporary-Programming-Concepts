@@ -79,39 +79,24 @@ Repository Structure
 
 
 COS2614-Assignment-1-Contemporary-Programming-Concepts
-│
-├── README.md
-├── LICENSE
-│
-├── Question1-Username-Generator
-│   ├── main.cpp
-│   ├── COS2614ASS1.pro
-│   └── screenshots
-│
-└── Question2-Product-Vendor-System
-    ├── main.cpp
-    ├── item.cpp
-    ├── item.h
-    ├── vendor.cpp
-    ├── vendor.h
-    ├── storeitem.cpp
-    ├── storeitem.h
-    ├── COS2614ASS1Que2.pro
-    └── screenshots
-
----
-
-Screenshots
-
-## Question 1
+- README.md
+- LICENSE
 
 Question1-Username-Generator
-
----
-
-## Question 2
-
+- main.cpp
+- COS2614ASS1.pro
+- screenshots
+  
 Question2-Product-Vendor-System
+- main.cpp
+- item.cpp
+- item.h
+- vendor.cpp
+- vendor.h
+- storeitem.cpp
+- storeitem.h
+- COS2614ASS1Que2.pro
+- screenshots
 
 ---
 
