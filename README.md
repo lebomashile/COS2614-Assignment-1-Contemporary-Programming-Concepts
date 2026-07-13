@@ -1,6 +1,6 @@
-COS2614 Assignment 1 – Contemporary Programming Concepts
+# COS2614 Assignment 1 – Contemporary Programming Concepts
 
-Overview
+## Overview
 
 This repository contains my solutions for COS2614 Assignment 1 completed during my Bachelor of Science in Computing studies at the University of South Africa (UNISA).
 
@@ -8,7 +8,7 @@ The assignment introduces practical software development using C++ and the Qt Fr
 
 ---
 
-Technologies Used
+## Technologies Used
 
 - C++
 - Qt Creator
@@ -18,12 +18,12 @@ Technologies Used
 
 ---
 
-Assignment Objectives
+## Assignment Objectives
 
 The assignment consists of two independent programming tasks.
 
 
-Question 1 – Username and Password Generator
+## Question 1 – Username and Password Generator
 
 Develop a Qt GUI application that:
 
@@ -45,7 +45,7 @@ Develop a Qt GUI application that:
 
 ---
 
-Question 2 – Product and Vendor Management System
+## Question 2 – Product and Vendor Management System
 
 Develop a console application implementing classes from a supplied UML diagram.
 
@@ -128,7 +128,7 @@ How to Run
 
 ---
 
-Learning Outcomes
+## Learning Outcomes
 
 This assignment strengthened my understanding of:
 
@@ -146,7 +146,7 @@ This assignment strengthened my understanding of:
 
 ---
 
-Future Improvements
+## Future Improvements
 
 Possible enhancements include:
 
@@ -159,14 +159,17 @@ Possible enhancements include:
 
 ---
 
-Author
+## Author
 Lebohang Mashile
+
 Bachelor of Science in Computing
+
 University of South Africa (UNISA)
+
 GitHub: https://github.com/lebomashile
 
 ---
 
-Disclaimer
+## Disclaimer
 
 This repository contains coursework completed as part of my academic studies at the University of South Africa (UNISA). It is shared for educational and portfolio purposes only.
